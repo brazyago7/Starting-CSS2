@@ -1,4 +1,4 @@
-<h1> Easy Shopping :computer:</h1>
+<h1 align="center"> Easy Shopping :computer:</h1>
 <br>
 <img src="https://github.com/brazyago7/Starting-CSS2/blob/main/img/imgreadme.png?raw=true">
 <br>
